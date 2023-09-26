@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-container {
+    margin: 50px 120px;
+    background-color: none;
+}
+.card-body{
+    color: brown;
+    background-color: blanchedalmond;
+}
+p.card-text {
+    color: black;
+}
+body{
+    background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/03/Cool-Wild-Animal-Wallpaper-For-Desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-group {
+    padding: 66px;
+}
+.card-columns{
+    width: 100%;
+}
